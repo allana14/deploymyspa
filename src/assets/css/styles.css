@@ -9510,10 +9510,8 @@ body {
 
 .Home {
   position: relative;
-  width: 100%;
-  height: 100%;
   min-height: 40rem;
-  padding: 15rem 0;
+  padding: 10.4rem 0;
   background: url("/assets/demo.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -9579,10 +9577,7 @@ img.bubble-img{
     background-color: #ffc0c0;
 }
 
-.projects-section .project-text {
-  padding: 3rem;
-  font-size: 90%;
-}
+
 @media (min-width: 992px) {
   .projects-section .project-text {
     padding: 5rem;
@@ -9595,7 +9590,8 @@ img.bubble-img{
 }
 
 .contact-section {
-  padding-top: 5rem;
+  padding-top: 15%;
+  padding-bottom: 11%;
 }
 .contact-section .card {
   border: 0;
@@ -9632,5 +9628,5 @@ img.bubble-img{
 }
 
 .footer {
-  padding: 5rem 0;
+  padding: 10rem 0;
 }
